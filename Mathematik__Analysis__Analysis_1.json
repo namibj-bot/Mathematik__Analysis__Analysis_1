@@ -1,0 +1,66 @@
+{
+    "__type__": "Deck", 
+    "children": [], 
+    "crowdanki_uuid": "c1f59ba1-9467-11e6-9c45-b2c14d7ae703", 
+    "deck_config_uuid": "b209eae1-8b14-11e6-a4eb-cede96e32757", 
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "b209eae1-8b14-11e6-a4eb-cede96e32757", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10, 
+                    60, 
+                    180, 
+                    480
+                ], 
+                "leechAction": 0, 
+                "leechFails": 24, 
+                "minInt": 1, 
+                "mult": 0.0
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
+            "new": {
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10, 
+                    60, 
+                    180, 
+                    480
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    4, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 0, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 3650, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
+            "timer": 0
+        }
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "media_files": [], 
+    "name": "Mathematik::Analysis::Analysis 1", 
+    "note_models": [], 
+    "notes": []
+}
