@@ -57,10 +57,144 @@
     ], 
     "desc": "", 
     "dyn": 0, 
-    "extendNew": 10, 
+    "extendNew": 1, 
     "extendRev": 50, 
-    "media_files": [], 
+    "media_files": [
+        "latex-60ba13961034951f9902a7e64dda9c2416140c67.png", 
+        "latex-c57eb9b388456536e17886a824fbb5beb55e9713.png", 
+        "latex-0fe9ab25f780bd03ccf6f599fbf4bd046477ca09.png", 
+        "latex-05187b7d760da60ec118b5ef06128fa99f2b24b9.png", 
+        "latex-4d116cca023c7393e1f7457c259331769093f668.png", 
+        "latex-ef0258f8219566800ae0d3143f10bcb0b02def7a.png", 
+        "latex-eea5954df4e6cab2f56be8cc7192887efec3f16d.png", 
+        "latex-389793db268a4cce8ee85092fdbc20ece0e50098.png", 
+        "latex-c36eb22de5ac4c6932ac2f8a8052062efb12c31a.png", 
+        "latex-d61ceab0f533492af5658667bc082a4bb4061dc5.png", 
+        "latex-378eec6c0e5607fb907c0c9073d11273c8d69fa5.png", 
+        "latex-45515303e1ffe683250250733d35622df2647719.png", 
+        "latex-b9b20696f1d8853bdbc4f62e373a5b19366593e4.png", 
+        "latex-22aeb8f30ffebefe925fe21c97cc4e203a4cbd39.png", 
+        "latex-1d96ecc15129c5631ba4a2c6578e91e3d13e3baf.png", 
+        "latex-d5eb8726a34932d28103ce7ce17456421222603f.png", 
+        "latex-5586a9c2c2140c47dcf8d90079a1646f1411afca.png"
+    ], 
+    "mid": "1475521829429", 
     "name": "Mathematik::Analysis::Analysis 1", 
-    "note_models": [], 
-    "notes": []
+    "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Source", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\inputenc{utf8}\n\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze [extra, source]", 
+            "sortf": 0, 
+            "tags": [
+                "Geometrische", 
+                "Summenformel"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}\n<br>\n{{Extra}}\n<br>\n<a href=\"{{text:Source}}\">{{Source}}</a>", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze", 
+                    "ord": 0, 
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }
+    ], 
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Vollständige Induktion}}:<div>1.&nbsp;{{c2::[latex]A(1)[/latex] ist wahr.}}</div><div>2.&nbsp;{{c3::Für alle}}&nbsp;{{c4::[$]n\\in \\mathbb{N}[/$]}} gilt:&nbsp;{{c5::Falls [$]\\mathcal{A}(n)[/$] wahr ist}},&nbsp;{{c6::dann ist auch [$]\\mathcal{A}(n+1)[/$] wahr}}.</div>", 
+                "", 
+                "Tafelbild: 2016/Anna1/5"
+            ], 
+            "flags": 0, 
+            "guid": "tcOoG~1[Tt", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Gaußsche Summenformel}}:<div>[$]{{c2::\\sum^n_{i=1}i}}={{c3::\\frac{1}{2}n(n+1)}}[/$]</div>", 
+                "", 
+                "Tafelbild 2016 Anna1/4"
+            ], 
+            "flags": 0, 
+            "guid": "K1I]}I4<<e", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Geometrische Summenformel:<br />Behauptung: [$]{{c1::\\text{Für alle }n\\in \\mathbb{N}}}\\text{ und } {{c2::x\\neq 1}}\\text{ gilt: } {{c3::\\sum^n_{i=0}x^i=\\frac{1-x^{n+1} }{1-x} }}[/$]", 
+                "", 
+                "Tafelbild 2016 Anna1/4"
+            ], 
+            "flags": 0, 
+            "guid": "vx$f;5&.cX", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Geometrische", 
+                "Summenformel"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Geometrische Summenformel:<div>Beweis mittels {{c1::Induktion}}:</div><div>1. {{c6::Induktionsanfang:}}</div><div>2. {{c2::[$]n=1[/$]}}</div><div>3.&nbsp;{{c3::[$]1+x[/$]}}[$]=[/$]{{c4::[$]\\frac{1-x^2}{1-x}[/$]}}[$]=[/$]{{c5::[$]\\frac{(1-x)(1+x)}{1-x}=1+x[/$]}}</div><div>4.&nbsp;{{c7::Induktionsschritt:}}</div><div>5.&nbsp;{{c8::[$]n\\Rightarrow n+1[/$]}}</div><div>6.&nbsp;{{c9::[$]\\sum^{n+1}_{i=0}x^i[/$]}}{{c10::[$]=[/$]}}{{c11::[$]\\sum^n_{i=0}x^i+x^{n+1}[/$]}}[$]=[/$]{{c12::[$]\\frac{1-x^{n+1}}{1-x}+x^{n+1}[/$]}}[$]=[/$]{{c13::[$]\\frac{1-x^{n+1}+x^{n+1}-x^{n+2}}{1-x}[/$]}}[$]=[/$]{{c14::[$]\\frac{1-x^{n+2}{1-x}[/$]}}</div>", 
+                "", 
+                "Tafelbild 2016 Anna1/4+/7"
+            ], 
+            "flags": 0, 
+            "guid": "n@E+lJvS#s", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Geometrische", 
+                "Summenformel"
+            ]
+        }
+    ]
 }
