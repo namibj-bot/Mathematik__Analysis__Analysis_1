@@ -60,23 +60,53 @@
     "extendNew": 1, 
     "extendRev": 50, 
     "media_files": [
-        "latex-60ba13961034951f9902a7e64dda9c2416140c67.png", 
-        "latex-c57eb9b388456536e17886a824fbb5beb55e9713.png", 
         "latex-0fe9ab25f780bd03ccf6f599fbf4bd046477ca09.png", 
-        "latex-05187b7d760da60ec118b5ef06128fa99f2b24b9.png", 
+        "latex-f75c12d54c0981464fcc9cebfa309755cec02eb0.png", 
+        "latex-44159074e516ecd190ee8e31d59d7b7615578c37.png", 
         "latex-4d116cca023c7393e1f7457c259331769093f668.png", 
+        "latex-bb5b19bf7575fdc3655bb5767980f09dbb747a8d.png", 
+        "latex-6db06bbcf7610d466e43f3123200c6c74baa9a8f.png", 
+        "latex-3bbb9e25e5be095e317771a9c5d00877ee9c8012.png", 
         "latex-ef0258f8219566800ae0d3143f10bcb0b02def7a.png", 
-        "latex-eea5954df4e6cab2f56be8cc7192887efec3f16d.png", 
+        "latex-481b648e98fb61e584fd88cbaf360fd1ab2827d6.png", 
         "latex-389793db268a4cce8ee85092fdbc20ece0e50098.png", 
-        "latex-c36eb22de5ac4c6932ac2f8a8052062efb12c31a.png", 
-        "latex-d61ceab0f533492af5658667bc082a4bb4061dc5.png", 
-        "latex-378eec6c0e5607fb907c0c9073d11273c8d69fa5.png", 
-        "latex-45515303e1ffe683250250733d35622df2647719.png", 
+        "latex-57efb5c0b218135087ac110b8467426b528d7856.png", 
+        "latex-5d1e4485dc90c450e8c76826516c1b2ccb8fce16.png", 
+        "latex-2dae22dd36fdd60cc193c1204d54ee4edbca72e1.png", 
+        "latex-174fadd07fd54c9afe288e96558c92e0c1da733a.png", 
+        "latex-6a02cbde66d979f83f969e5782434ee550207c52.png", 
+        "latex-60ed020e037834e10ccbcc412e3386653ec9e847.png", 
         "latex-b9b20696f1d8853bdbc4f62e373a5b19366593e4.png", 
-        "latex-22aeb8f30ffebefe925fe21c97cc4e203a4cbd39.png", 
-        "latex-1d96ecc15129c5631ba4a2c6578e91e3d13e3baf.png", 
+        "latex-60ba13961034951f9902a7e64dda9c2416140c67.png", 
+        "latex-c36eb22de5ac4c6932ac2f8a8052062efb12c31a.png", 
         "latex-d5eb8726a34932d28103ce7ce17456421222603f.png", 
-        "latex-5586a9c2c2140c47dcf8d90079a1646f1411afca.png"
+        "latex-5586a9c2c2140c47dcf8d90079a1646f1411afca.png", 
+        "latex-52d6199d36a55e7fa2fbd05b37576654ea07aea1.png", 
+        "latex-22aeb8f30ffebefe925fe21c97cc4e203a4cbd39.png", 
+        "latex-c57eb9b388456536e17886a824fbb5beb55e9713.png", 
+        "latex-61727d38b48ade430b36831a5933dd12e73a132e.png", 
+        "latex-63f344e7d8b14a7886fc7fb72da53cd0a3271dcc.png", 
+        "latex-d61ceab0f533492af5658667bc082a4bb4061dc5.png", 
+        "latex-26fd9aa08a2bb20b3b7ecc0cf36335a15985c741.png", 
+        "latex-05187b7d760da60ec118b5ef06128fa99f2b24b9.png", 
+        "latex-d06ff0c90bc6f81e31faecaba622165272fe2cda.png", 
+        "latex-64cf5624f407f493447881e836e7a85bd5609a21.png", 
+        "latex-eef0203e65664bd00b5f0325c5c5fcd81bcead8d.png", 
+        "latex-9e89270aa29dd200d6388cdaf4b31cb721b62ba8.png", 
+        "latex-378eec6c0e5607fb907c0c9073d11273c8d69fa5.png", 
+        "latex-bc1f9d9bf8a1b606a4188b5ce9a2af1809e27a89.png", 
+        "latex-aa85f8455d67090515c97061eb8c393f87494283.png", 
+        "latex-2c97c58c0a33cbe81e87888d21ab5e1d60fa2381.png", 
+        "latex-89d1970cf42e3cf65d7f73a03480b6dcb30f20f4.png", 
+        "latex-0e3efd9b14723a92c2ae891fe27780d5f8e2b215.png", 
+        "latex-6a97d0003430cb1928714aaecbf452ce72a559a5.png", 
+        "latex-01e2cefb0358a6bff85156c1a466eee87661949b.png", 
+        "latex-45515303e1ffe683250250733d35622df2647719.png", 
+        "latex-f998e8263ad4c2d12e6dfb7958cc251990c35fd9.png", 
+        "latex-545108da995f9130047eda5ac336267cb0d773f5.png", 
+        "latex-1d96ecc15129c5631ba4a2c6578e91e3d13e3baf.png", 
+        "latex-726d361ff38164509bceb599c38785399e302bbf.png", 
+        "latex-e8c289304b2031a167836d84d1565614138f93e5.png"
     ], 
     "mid": "1475521829429", 
     "name": "Mathematik::Analysis::Analysis 1", 
@@ -114,11 +144,12 @@
                     "sticky": true
                 }
             ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\inputenc{utf8}\n\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "latexPost": "\\end{preview}\n\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{lmodern}\n\\usepackage[T1]{fontenc}\n\\usepackage{color}\n\\usepackage[active]{preview}\n\\begin{document}\n\\begin{preview}\n\\pagecolor{black}\n\\color{white}", 
             "name": "Cloze [extra, source]", 
             "sortf": 0, 
             "tags": [
+                "Beweis", 
                 "Geometrische", 
                 "Summenformel"
             ], 
@@ -192,6 +223,160 @@
             "guid": "n@E+lJvS#s", 
             "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
             "tags": [
+                "Geometrische", 
+                "Summenformel"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Beweis für {{c1::[$]n\\geq 5 \\rightarrow 2^n\\gt n^2[/$]}}:<div><div>Mittels&nbsp;{{c2::Vollständiger Induktion}}</div></div><div>1. {{c3::[$]n_0=5[/$]}[$]:[/$]{{c4::[$]32\\gt25[/$]}}{{c5::[$]\\checkmark[/$]}}</div><div>2.&nbsp;{{c6::[$]n\\rightarrow n+1[/$]}}[$]:[/$]{{c7::[$]2^{n+1}[/$]}}[$]=[/$]{{c8::[$]2^n 2[/$]}}[$]\\gt[/$]{{c9::[$]n^2 2[/$]}}[$]\\gt[/$]{{c10::[$](n+1)^2[/$]}}[$]\\blacksquare[/$]</div>", 
+                "", 
+                "", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "PN,iFkqfQ<", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Beispiel", 
+                "Beweis", 
+                "Induktion"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c2::vollständige Induktion}}:&lt;div&gt;{{c3::Jedem [$]n[/$]}} soll&amp;nbsp;{{c4::[$]f(n)[/$] zugeordnet werden}}&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;{{c5::[$]f(1)[/$] angeben}}&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;{{c6::Vorschrift zur Gewinnung}} von&amp;nbsp;{{c7::[$]f(n+1)[/$] aus [$](f(1),\\dots,f(n))[/$]}}.&lt;/div&gt;", 
+                "", 
+                "", 
+                "", 
+                "Anna1 Tafel 16/9"
+            ], 
+            "flags": 0, 
+            "guid": "iR84jp)j-4", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Induktion", 
+                "Konstruktion", 
+                "Rekursive_Konstruktion"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "&lt;div&gt;{{c1::Fibonacci}}zahlen&lt;/div&gt;{{c2::Annahmen}}: {{c3::[$]F_0=0[/$]}} und&amp;nbsp;{{c4::[$]F_1=1[/$]}}&lt;div&gt;{{c5::Vorschrift}}:&amp;nbsp;{{c6::[$]F_{n+1}=F_n+F_{n-1}[/$]}}&lt;/div&gt;", 
+                "", 
+                "", 
+                "", 
+                "Anna1 Tafel 16/11"
+            ], 
+            "flags": 0, 
+            "guid": "v%Y<[eb[IK", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Fibonacci", 
+                "Induktion", 
+                "Konstruktion", 
+                "Rekursive_Konstruktion"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Fakultät}}:&lt;div&gt;{{c2::[$]n![/$]}}[$]=[/$]{{c3::[$]\\prod\\limits_{i=1}^ni[/$]}}&lt;/div&gt;", 
+                "", 
+                "", 
+                "", 
+                "Anna1 Tafel 16/13"
+            ], 
+            "flags": 0, 
+            "guid": "kIg_bJD`Fy", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Definition", 
+                "Fakultät"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Binominalkoeffizient}}:&lt;div&gt;für&amp;nbsp;{{c2::[$]n\\in\\mathbb N_0[/$]}} und&amp;nbsp;{{c3::[$]k\\in\\mathbb N_0[/$]}},&amp;nbsp;{{c4::[$]k\\leq n[/$]}}&lt;/div&gt;&lt;div&gt;ist&amp;nbsp;{{c5::[$]\\binom n k[/$]}}[$]:=[/$]{{c6::[$]\\frac{n!}{k!(n-k)!}[/$]}}, gesprochen \"{{c7::n über k}}\".&lt;/div&gt;&lt;div&gt;Für&amp;nbsp;{{c8::[$]k&amp;lt;0\\vee k&amp;gt;n[/$]}} gilt {{c9::[$]\\binom n k[/$]}}[$]:=[/$]{{c10::[$]0[/$]}}&lt;/div&gt;", 
+                "", 
+                "", 
+                "", 
+                "Anna1 Tafel 16/14"
+            ], 
+            "flags": 0, 
+            "guid": "J4/Hg0ghqf", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Binominalkoeffizient", 
+                "Definition"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Satz:&amp;nbsp;{{c1::Kombinatorische Interpretation}}:&lt;div&gt;{{c2::Jede [$]n[/$]elementige Menge hat}}&amp;nbsp;{{c3::[$]\\binom n k[/$] Teilmengen}}.&lt;/div&gt;", 
+                "", 
+                "", 
+                "", 
+                "Anna1 Tafel 16/14"
+            ], 
+            "flags": 0, 
+            "guid": "PAm]T%`!_p", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Binominalkoeffizient", 
+                "Definition", 
+                "Kombinatorische_Interpretation", 
+                "Satz"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Beweis {{c1::der Kombinatorischen Interpretation des Binomialkoeffizienten}}:&lt;div&gt;1.&amp;nbsp;{{c2::Annahme: [$]n=1:\\checkmark[/$]}}&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;{{c3::[$]n\\rightarrow n+1[/$]}}:&amp;nbsp;{{c4::[$]M[/$] sei Menge mit [$]n+1[/$] Elementen}}.&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;{{c5::n+1 Möglichkeiten zur Wahl des ersten Elementes}}&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;{{c6::nach IA gibt es für die restlichen Elemente [$]n![/$] Möglichkeiten}}&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;{{c7::somit insgesamt [$](n+1)n!=(n+1)![/$] Möglichkeiten. [$]\\blacksquare[/$]}}&lt;/div&gt;", 
+                "", 
+                "", 
+                "", 
+                "Anna1 Tafel 16/14"
+            ], 
+            "flags": 0, 
+            "guid": "hj.SJk#D74", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Beweis", 
+                "Binominalkoeffizient", 
+                "Induktion", 
+                "Kombinatorik", 
+                "Kombinatorische_Interpretaion"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Geometrische Summenformel:&lt;div&gt;Beweis mittels {{c1::Induktion}}:&lt;/div&gt;&lt;div&gt;1. {{c6::Induktionsanfang:}}&lt;/div&gt;&lt;div&gt;2. {{c2::[$]n=1[/$]}}&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;{{c3::[$]1+x[/$]}}[$]=[/$]{{c4::[$]\\frac{1-x^2}{1-x}[/$]}}[$]=[/$]{{c5::[$]\\frac{(1-x)(1+x)}{1-x}=1+x[/$]}}&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;{{c7::Induktionsschritt:}}&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;{{c8::[$]n\\Rightarrow n+1[/$]}}&lt;/div&gt;&lt;div&gt;6.&amp;nbsp;{{c9::[$]\\sum^{n+1}_{i=0}x^i[/$]}}{{c10::[$]=[/$]}}{{c11::[$]\\sum^n_{i=0}x^i+x^{n+1}[/$]}}[$]=[/$]{{c12::[$]\\frac{1-x^{n+1}}{1-x}+x^{n+1}[/$]}}[$]=[/$]{{c13::[$]\\frac{1-x^{n+1}+x^{n+1}-x^{n+2}}{1-x}[/$]}}[$]=[/$]{{c14::[$]\\frac{1-x^{n+2}{1-x}[/$]}}&lt;/div&gt;", 
+                "", 
+                "", 
+                "", 
+                "Anna1 Tafel 16/4+/7"
+            ], 
+            "flags": 0, 
+            "guid": "d;{3)8ip<A", 
+            "note_model_uuid": "b999bc9a-7ce6-11e6-9d08-8c705a50cbf0", 
+            "tags": [
+                "Beweis", 
                 "Geometrische", 
                 "Summenformel"
             ]
